@@ -15,6 +15,7 @@ di3.addEventListener('click', function(){
 
 
 
+
 /*
 function mouseDown() {
     document.getElementsByClassName("div1").style.color = "blue";
